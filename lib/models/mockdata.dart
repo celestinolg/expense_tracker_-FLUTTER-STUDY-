@@ -12,11 +12,11 @@ List<Expense> mockData = [
     title: "Other think",
     amount: 19.99,
     date: DateTime.now(),
-    category: CategoryEnum.work,
+    category: CategoryEnum.food,
   ),
   Expense(
     title: "Travel plan",
-    amount: 200.99,
+    amount: 200.8599,
     date: DateTime.now(),
     category: CategoryEnum.travel,
   ),
